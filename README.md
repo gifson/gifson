@@ -1,4 +1,4 @@
-# giphy
+# gifson
 
 ## Project setup
 ```

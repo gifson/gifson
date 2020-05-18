@@ -1,0 +1,15 @@
+{
+    "background_color": "white",
+    "description": "Giphy Vuetified.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "assets/logo.png",
+        "sizes": "200x200",
+        "type": "image/png"
+      }
+    ],
+    "name": "Gifson",
+    "short_name": "gifson",
+    "start_url": "index.html"
+  }

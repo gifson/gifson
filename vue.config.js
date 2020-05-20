@@ -2,5 +2,9 @@ module.exports = {
   "transpileDependencies": [
     "vuetify"
   ],
-  "filenameHashing": false
+  "filenameHashing": false,
+  "pwa": {
+    "assetsVersion": "0.1.1",
+    "appleMobileWebAppCapable": 'yes'
+  }
 }

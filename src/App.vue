@@ -14,7 +14,7 @@
 
         <v-text-field 
             placeholder="Search..."
-            @keyup="search"
+            @input="search"
         ></v-text-field>
       
     </v-app-bar>
